@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 
-import api from "../Services/api";
+import api from "../services/api";
 
 import ReviewForm from "../components/ReviewForm";
 
