@@ -1,5 +1,5 @@
 import { useState } from "react";
-import api from "../Services/api";
+import api from "../services/api";
 
 function ReviewForm({
   animeId,
